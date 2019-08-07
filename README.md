@@ -1,0 +1,2 @@
+# CIRCLET
+CIRCLET, a powerful tool for accurate reconstruction of circular trajectory with high resolution by considering multi-scale features of chromosomal architectures of single cells. Further division of the reconstructed trajectory helps to accurately characterize the dynamics of chromosomal structures and uncover important regulatory genes along cell-cycle progression, providing a novel framework for discovering regulatory regions even cancer markers at single-cell resolution.
